@@ -4,7 +4,7 @@
 This is a repository that I have created to showcase skills and share projects as part of my resume.
 ## Table of contents
   - [About](#about)
-  - Figma(#project-name)
+  - Figma(#Figma)
     - [Project Name](#project-name)
   - Power BI
 ## Figma
