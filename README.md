@@ -9,10 +9,17 @@ This is a repository that I have created to showcase skills and share projects a
   - [Power BI](#power-bi)
 ## Figma
 ### Power BI Dashboard Prototype
-**Code:** 
+![BMA Queue Dashboard](https://github.com/puttipongpoophonphun/Puttipong-Poophonphun-Portfolio/assets/170099350/f822dfe5-9d26-49d8-8482-c6d4c31fdd94)
 **Description:** 
 **Skills:** Data Visualization, Requirements gathering.
 **Technology:** Figma.
 **Results:**
 ## Power BI
-### Project
+### Sale Performance Report
+![Sale Performance Dashboard](https://github.com/puttipongpoophonphun/Puttipong-Poophonphun-Portfolio/assets/170099350/78530367-7436-4931-9f31-1a558ba2abac)
+
+**File:** ![Sale_Dashboard.pbix](project/Sale_Dashboard.pbix)
+**Description:** 
+**Skills:** Data Visualization, Data Transformation
+**Technology:** Power BI
+**Results:**
