@@ -4,9 +4,9 @@
 This is a repository that I have created to showcase skills and share projects as part of my resume.
 ## Table of contents
   - [About](#about)
-  - [Figma](#Figma)
+  - [Figma](#figma)
     - [Project Name](#Project-Name)
-  - [Power BI](#Power-BI)
+  - [Power BI](#power-bi)
 ## Figma
 ### Power BI Dashboard Prototype
 **Code:** 
