@@ -5,8 +5,9 @@ This is a repository that I have created to showcase skills and share projects a
 ## Table of contents
   - [About](#about)
   - [Figma](#figma)
-    - [Project Name](#Project-Name)
+    - [BMA Queue Dashboard Prototype](#BMA-Queue-Dashboard-Prototype)
   - [Power BI](#power-bi)
+    - [Sale Performance Report](#Sale-Performance-Report) 
 ## Figma
 ### BMA Queue Dashboard Prototype
 ![BMA Queue Dashboard](https://github.com/puttipongpoophonphun/Puttipong-Poophonphun-Portfolio/assets/170099350/f822dfe5-9d26-49d8-8482-c6d4c31fdd94)
