@@ -13,7 +13,8 @@ This is a repository that I have created to showcase skills and share projects a
 ### HR Dashboard
 ![image](https://github.com/puttipongpoophonphun/Portfolio/assets/170099350/e89f78f8-cbf9-4321-94a5-bfbc1c27c8c8)
 #### File:
-
+![HR Data Cleaning & Transformation.ipynb](HR-Data-Cleaning-&-Transformation.ipynb)
+![HRDashboard.pbix](project/HRDashboard.pbix)  
 #### Description:  
 This HR dashboard provides a comprehensive overview of key metrics related to employee demographics, retention, recruitment, and compensation. The dashboard also highlights common reasons for employee terminations and shows average tenure by department. Recruitment sources are tracked, indicating the effectiveness of various platforms like Indeed and LinkedIn. The salary distribution is depicted across different salary ranges, and detailed employee information is listed, including position, department, salary, satisfaction, and performance ratings.
 #### Skills:
@@ -36,7 +37,7 @@ Figma.
 #### File: 
 ![Sale_Dashboard.pbix](project/Sale_Dashboard.pbix)  
 #### Description: 
-This was done as a project for Modern Database Management class at Thammasat University. This dashboard is a Sales Performance Report designed to provide an overview of key financial metrics and detailed sales data for different products and locations.
+This was done as a project for the Modern Database Management class at Thammasat University. This dashboard is a Sales Performance Report designed to provide an overview of key financial metrics and detailed sales data for different products and locations.
 #### Skills: 
 Data Cleaning, Data Transformation, Data Models, Data Visualization. 
 #### Technology: 
