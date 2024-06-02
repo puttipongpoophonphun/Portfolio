@@ -22,7 +22,7 @@ Figma.
 #### File: 
 ![Sale_Dashboard.pbix](project/Sale_Dashboard.pbix)  
 #### Description: 
-This was done as a project for Modern Database Management at Thammasat University. This dashboard is a Sales Performance Report designed to provide an overview of key financial metrics and detailed sales data for different products and locations.
+This was done as a project for Modern Database Management class at Thammasat University. This dashboard is a Sales Performance Report designed to provide an overview of key financial metrics and detailed sales data for different products and locations.
 #### Skills: 
 Data Cleaning, Data Transformation, Data Models, Data Visualization. 
 #### Technology: 
