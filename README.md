@@ -12,6 +12,8 @@ This is a repository that I have created to showcase skills and share projects a
 
 ### HR Dashboard
 ![image](https://github.com/puttipongpoophonphun/Portfolio/assets/170099350/2428ebbc-857f-44f2-bc9f-048ecebde632)
+![image](https://github.com/user-attachments/assets/a7553901-8f2d-4ea5-92d9-22bc634e36fb)
+
 #### File:
 - ![HR Data Cleaning & Transformation.ipynb](HR-Data-Cleaning-&-Transformation.ipynb)
 - ![HRDashboard.pbix](project/HRDashboard.pbix)  
